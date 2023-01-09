@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align = "center">
+    <h1 align = "center"> Hi there! 👋</h1>
+</p>
+</br>
+<p align = "center">
+    <h2 align = "center"> Digital Me</h1>
+</p>
+</br>
 
-<!--
-**PhilipDW183/PhilipDW183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🕮 Languages: Python, HTML, CSS, Kotlin, Java
+- 😄 Pronouns: He | Him
+- 🌱 I’m currently learning Kotlin and Android Development
+- 📫 How to reach me: 
+    - [linkedIn](https://www.linkedin.com/in/philip-wilkinson1/)
+    - [Twitter](https://twitter.com/PhilipW1lk)
