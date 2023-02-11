@@ -7,9 +7,10 @@
 </p>
 </br>
 
-- 🕮 Languages: Python, HTML, CSS, Kotlin, Java
+- 🕮 Languages: Python, SQL, HTML, CSS, Kotlin, Java, JavaScript
 - 😄 Pronouns: He | Him
 - 🌱 I’m currently learning Kotlin and Android Development
-- 📫 How to reach me: 
+- 📘 Find my Data Science blog on [Medium](https://medium.com/@philip-wilkinson)
+- 📫 Reach me on: 
     - [linkedIn](https://www.linkedin.com/in/philip-wilkinson1/)
     - [Twitter](https://twitter.com/PhilipW1lk)
