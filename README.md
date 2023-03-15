@@ -9,7 +9,7 @@
 
 - 🕮 Languages: Python, SQL, HTML, CSS, Kotlin, Java, JavaScript
 - 😄 Pronouns: He | Him
-- 🌱 I’m currently learning Kotlin and Android Development
+- 🌱 I’m currently learning Flask application building and Android Development
 - 📘 Find my Data Science blog on [Medium](https://medium.com/@philip-wilkinson)
 - 📫 Reach me on: 
     - [linkedIn](https://www.linkedin.com/in/philip-wilkinson1/)
